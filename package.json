@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "chart.js": "^3.6.2",
-    "install": "^0.13.0",
-    "npm": "^8.3.0"
-  }
-}
